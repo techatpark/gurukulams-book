@@ -1,0 +1,20 @@
+- id: Search
+  translation: தேடு
+
+- id: Edit this page
+  translation: இந்தப் பக்கத்தைத் திருத்தவும்
+
+- id: Last modified by
+  translation: கடைசியாக மாற்றியமைத்தது
+
+- id: Expand
+  translation: விரிவாக்கு
+
+- id: bookSearchConfig
+  translation: |
+    {
+      encode: false,
+      tokenize: function(str) {
+        return str.replace(/[\x00-\x7F]/g, '').split('');
+      }
+    }

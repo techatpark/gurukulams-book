@@ -1,0 +1,8 @@
+public/
+.hugo/
+.DS_Store
+.hugo_build.lock
+
+sample-book/public/
+sample-book/.hugo/
+sample-book/resources/
