@@ -336,6 +336,13 @@ If you want lower maintenance, use one of the released versions. If you want to 
 
 ## Contributing
 
+### Setup
+
+```sh
+cd sample-book
+.././hugow server --themesDir ../..
+```
+
 ### [Extra credits to contributors](https://github.com/techatpark/gurukulams-book/graphs/contributors)
 
 Contributions are welcome and I will review and consider pull requests.  
