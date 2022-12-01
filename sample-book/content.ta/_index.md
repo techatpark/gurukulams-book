@@ -1,9 +1,9 @@
 ---
-title: 介绍
+title: அறிமுகம்
 type: docs
 ---
 
-# 中文索引页
+# அறிமுகம்
 
 {{< columns >}}
 ## Astris ipse furtiva
