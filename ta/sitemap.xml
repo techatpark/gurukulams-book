@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>gurukulams-book/ta/categories/</loc>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="gurukulams-book/categories/"
+                href="https://techatpark.github.io/gurukulams-book/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="gurukulams-book/ta/categories/"
+                href="https://techatpark.github.io/gurukulams-book/ta/categories/"
                 />
   </url><url>
-    <loc>gurukulams-book/ta/tags/</loc>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="gurukulams-book/tags/"
+                href="https://techatpark.github.io/gurukulams-book/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="gurukulams-book/ta/tags/"
+                href="https://techatpark.github.io/gurukulams-book/ta/tags/"
                 />
   </url><url>
-    <loc>gurukulams-book/ta/</loc>
-    <lastmod>2022-12-02T13:28:27+05:30</lastmod>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/</loc>
+    <lastmod>2022-12-02T13:35:25+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="gurukulams-book/"
+                href="https://techatpark.github.io/gurukulams-book/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="gurukulams-book/ta/"
+                href="https://techatpark.github.io/gurukulams-book/ta/"
                 />
   </url>
 </urlset>
