@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-12-02T13:09:19+05:30</lastmod>
+    <loc>gurukulams-book/</loc>
+    <lastmod>2022-12-02T13:28:27+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="https://example.com/ta/"
+                href="gurukulams-book/ta/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="gurukulams-book/"
                 />
   </url><url>
-    <loc>https://example.com/layouts/</loc>
+    <loc>gurukulams-book/layouts/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/layouts/columns/</loc>
+    <loc>gurukulams-book/layouts/columns/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/layouts/details/</loc>
+    <loc>gurukulams-book/layouts/details/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/layouts/tabs/</loc>
+    <loc>gurukulams-book/layouts/tabs/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/markup/</loc>
+    <loc>gurukulams-book/markup/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/markup/hints/</loc>
+    <loc>gurukulams-book/markup/hints/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/maths/</loc>
+    <loc>gurukulams-book/maths/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/maths/katex/</loc>
+    <loc>gurukulams-book/maths/katex/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/pictures/</loc>
+    <loc>gurukulams-book/pictures/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/pictures/diagram/</loc>
+    <loc>gurukulams-book/pictures/diagram/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/pictures/figure/</loc>
+    <loc>gurukulams-book/pictures/figure/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/pictures/mermaid/</loc>
+    <loc>gurukulams-book/pictures/mermaid/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>gurukulams-book/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="https://example.com/ta/categories/"
+                href="gurukulams-book/ta/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="gurukulams-book/categories/"
                 />
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>gurukulams-book/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
-                href="https://example.com/ta/tags/"
+                href="gurukulams-book/ta/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="gurukulams-book/tags/"
                 />
   </url>
 </urlset>

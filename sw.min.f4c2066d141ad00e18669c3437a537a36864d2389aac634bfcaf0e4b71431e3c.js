@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/gurukulams-book/sw.js",{scope:"/"})
