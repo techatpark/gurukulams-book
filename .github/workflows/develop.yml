@@ -25,3 +25,9 @@ jobs:
       - name: Run Hugo
         working-directory: sample-book
         run: hugo --themesDir ../..
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2.4.0
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_PAGES_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./sample-book/public
