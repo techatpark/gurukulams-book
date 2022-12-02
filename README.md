@@ -1,4 +1,4 @@
-# Hugo Book Theme
+# Gurukulams Book Theme
 
 [![Hugo](https://img.shields.io/badge/hugo-0.79-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -175,10 +175,6 @@ disableKinds = ['taxonomy', 'taxonomyTerm']
   # When not specified file structure and weights will be used
   # Deprecated, to be removed in June 2022
   BookMenuBundle = '/menu'
-
-  # (Optional, default docs) Specify section of content to render as menu
-  # You can also set value to "*" to render all sections to menu
-  BookSection = 'docs'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
