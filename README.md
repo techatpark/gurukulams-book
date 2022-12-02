@@ -244,8 +244,6 @@ bookFlatSection = false
 # (Optional) Set to hide nested sections or pages at that level. Works only with file-tree menu mode
 bookCollapseSection = true
 
-# (Optional) Set true to hide page or section from side menu (if BookMenuBundle not set)
-bookHidden = false
 
 # (Optional) If you have enabled BookComments for the site, you can disable it for specific pages.
 bookComments = true
@@ -340,7 +338,7 @@ If you want lower maintenance, use one of the released versions. If you want to 
 
 ```sh
 cd sample-book
-.././hugow server --themesDir ../..
+.././hugow server --ignoreCache --themesDir ../..
 ```
 
 ### [Extra credits to contributors](https://github.com/techatpark/gurukulams-book/graphs/contributors)
