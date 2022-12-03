@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://techatpark.github.io/gurukulams-book/</loc>
-    <lastmod>2022-12-02T13:38:09+05:30</lastmod>
+    <lastmod>2022-12-03T12:20:15+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
@@ -41,15 +41,55 @@
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/pictures/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/pictures/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/pictures/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/pictures/diagram/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/pictures/diagram/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/pictures/diagram/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/pictures/figure/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/pictures/figure/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/pictures/figure/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/pictures/mermaid/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/pictures/mermaid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/pictures/mermaid/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/categories/</loc>
     <xhtml:link
