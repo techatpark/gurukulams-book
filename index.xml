@@ -75,7 +75,7 @@ Example # {{&amp;lt; katex [display] [class=&amp;#34;text-center&amp;#34;] &amp;
       
       <guid>https://techatpark.github.io/gurukulams-book/pictures/figure/</guid>
       <description> Figure # Figure shortcode can be used as a way of displaying the images with caption.
-{{&amp;lt; figure &amp;#34;[path]&amp;#34; &amp;#34;css-class&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /figure &amp;gt;}} Example # Figure with 50% {{&amp;lt; figure &amp;#34;figure.jpeg&amp;#34; &amp;#34;w-50 float-end&amp;#34; &amp;gt;}} **Figure with 50%** {{&amp;lt; /figure &amp;gt;}} </description>
+![Caption](Path &amp;#34;css-classes&amp;#34;) Example # Figure with 50% ![Figure with 50%](figure.jpeg &amp;#34;w-50 float-end&amp;#34;) </description>
     </item>
     
     <item>
