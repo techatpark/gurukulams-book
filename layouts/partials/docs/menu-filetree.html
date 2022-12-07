@@ -44,6 +44,8 @@
       {{- partial "docs/title" .Page -}}
     </a>
   {{ else }}
-    <span>{{- partial "docs/title" .Page -}}</span>
+    <a href="{{ .Page.RelPermalink }}" class="{{ if $current }}active{{ end }}">
+      {{- partial "docs/title" .Page -}}
+    </a>
   {{ end }}
 {{ end }}
