@@ -20,5 +20,5 @@
 </figure>
 
 {{ else }}
-{{ errorf "Failed to image at %q" $image }}
+{{ errorf "Failed to image %q at %q" $image .Page.File }}
 {{ end }}
