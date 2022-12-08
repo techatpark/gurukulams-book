@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/markup/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/markup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/markup/"
+                />
+  </url><url>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/markup/hints/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/markup/hints/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/markup/hints/"
+                />
+  </url><url>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/maths/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/maths/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/maths/"
+                />
+  </url><url>
+    <loc>https://techatpark.github.io/gurukulams-book/ta/maths/katex/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/maths/katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/maths/katex/"
+                />
+  </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/ta/pictures/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -79,7 +131,7 @@
                 />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/ta/</loc>
-    <lastmod>2022-12-08T18:02:49+05:30</lastmod>
+    <lastmod>2022-12-08T18:26:16+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://techatpark.github.io/gurukulams-book/</loc>
-    <lastmod>2022-12-08T18:02:49+05:30</lastmod>
+    <lastmod>2022-12-08T18:26:16+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ta"
@@ -15,29 +15,57 @@
                 href="https://techatpark.github.io/gurukulams-book/"
                 />
   </url><url>
-    <loc>https://techatpark.github.io/gurukulams-book/layouts/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://techatpark.github.io/gurukulams-book/layouts/columns/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://techatpark.github.io/gurukulams-book/layouts/details/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://techatpark.github.io/gurukulams-book/layouts/tabs/</loc>
-    <priority>0</priority>
-  </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/markup/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/markup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/markup/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/markup/hints/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/markup/hints/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/markup/hints/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/maths/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/maths/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/maths/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/maths/katex/</loc>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ta"
+                href="https://techatpark.github.io/gurukulams-book/ta/maths/katex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techatpark.github.io/gurukulams-book/maths/katex/"
+                />
   </url><url>
     <loc>https://techatpark.github.io/gurukulams-book/pictures/</loc>
     <priority>0</priority>

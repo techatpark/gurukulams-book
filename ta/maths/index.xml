@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book Manual</title>
-    <link>https://techatpark.github.io/gurukulams-book/maths/</link>
+    <link>https://techatpark.github.io/gurukulams-book/ta/maths/</link>
     <description>Recent content on Book Manual</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://techatpark.github.io/gurukulams-book/maths/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://techatpark.github.io/gurukulams-book/ta/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://techatpark.github.io/gurukulams-book/maths/katex/</link>
+      <link>https://techatpark.github.io/gurukulams-book/ta/maths/katex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techatpark.github.io/gurukulams-book/maths/katex/</guid>
+      <guid>https://techatpark.github.io/gurukulams-book/ta/maths/katex/</guid>
       <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
 Example # {{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Text continues here.</description>
     </item>
