@@ -13,9 +13,8 @@
       <guid>https://techatpark.github.io/gurukulams-book/markup/hints/</guid>
       <description>Hints # Hint shortcode can be used as hint/alerts/notification block.
 There are 3 colors to choose: info, warning and danger.
-hint-[info|warning|danger] **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content
-Lorem markdownum insigne.</description>
+hint {{ role=&amp;#34;[info|warning|danger]&amp;#34; }} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content</description>
     </item>
     
   </channel>

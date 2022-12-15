@@ -5,16 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Hints # Hint shortcode can be used as hint/alerts/notification block.
 There are 3 colors to choose: info, warning and danger.
-hint-[info|warning|danger] **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content
-Lorem markdownum insigne.">
+hint {{ role=&#34;[info|warning|danger]&#34; }} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="" />
 <meta property="og:description" content="Hints # Hint shortcode can be used as hint/alerts/notification block.
 There are 3 colors to choose: info, warning and danger.
-hint-[info|warning|danger] **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content
-Lorem markdownum insigne." />
+hint {{ role=&#34;[info|warning|danger]&#34; }} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://techatpark.github.io/gurukulams-book/markup/hints/" /><meta property="article:section" content="markup" />
 
@@ -29,7 +27,7 @@ Lorem markdownum insigne." />
 
 <link rel="stylesheet" href="/gurukulams-book/book.min.796bb1bd680823e753c1b4564be90186b45118f9acd584a0d8f1d61026bb3b4f.css" integrity="sha256-eWuxvWgII&#43;dTwbRWS&#43;kBhrRRGPms1YSg2PHWECa7O08=" crossorigin="anonymous">
   <script defer src="/gurukulams-book/flexsearch.min.js"></script>
-  <script defer src="/gurukulams-book/en.search.min.857d12f8ec062410be4797da78cd79d3255030d9abefe3f10bfd1e56bbfc5736.js" integrity="sha256-hX0S&#43;OwGJBC&#43;R5faeM150yVQMNmr7&#43;PxC/0eVrv8VzY=" crossorigin="anonymous"></script>
+  <script defer src="/gurukulams-book/en.search.min.50b2f8781b8bf4f2c0b8a66dcdb6c1614ae15e2acd23186b7f7eab042f958866.js" integrity="sha256-ULL4eBuL9PLAuKZtzbbBYUrhXirNIxhrf36rBC&#43;ViGY=" crossorigin="anonymous"></script>
 
   <script defer src="/gurukulams-book/sw.min.f4c2066d141ad00e18669c3437a537a36864d2389aac634bfcaf0e4b71431e3c.js" integrity="sha256-9MIGbRQa0A4YZpw0N6U3o2hk0jiarGNL/K8OS3FDHjw=" crossorigin="anonymous"></script>
 <!--
@@ -307,7 +305,7 @@ https://github.com/techatpark/gurukulams-book
 </h1>
 <p>Hint shortcode can be used as hint/alerts/notification block.<br>
 There are 3 colors to choose: <code>info</code>, <code>warning</code> and <code>danger</code>.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tpl" data-lang="tpl"><span style="display:flex;"><span>hint-[info|warning|danger] 
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tpl" data-lang="tpl"><span style="display:flex;"><span>hint <span style="color:#75715e">{{</span> <span style="color:#a6e22e">role</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;[info|warning|danger]&#34;</span> <span style="color:#75715e">}}</span> 
 </span></span><span style="display:flex;"><span>**Markdown content**  
 </span></span><span style="display:flex;"><span>Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 </span></span><span style="display:flex;"><span>stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
@@ -315,17 +313,17 @@ There are 3 colors to choose: <code>info</code>, <code>warning</code> and <code>
   Example
   <a class="anchor" href="#example">#</a>
 </h2>
-<div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="info">
     <strong>Markdown content</strong><br>
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 </div>
-  <div class="alert alert-warning" role="alert">
+  <div class="alert alert-warning" role="warning">
     <strong>Markdown content</strong><br>
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 </div>
-  <div class="alert alert-danger" role="alert">
+  <div class="alert alert-danger" role="danger">
     <strong>Markdown content</strong><br>
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
@@ -339,9 +337,9 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
   <div class="flex flex-wrap justify-between">
 
 
-  <div><a class="flex align-center" href="https://github.com/techatpark/gurukulams-book/commit/0752f5283e966545d67fa08b1425a4c9a96d58d7" title='Last modified by haripriya | December 13, 2022' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/techatpark/gurukulams-book/commit/68b59910fcc7c98a03c90cac40b15c7181814268" title='Last modified by haripriya | December 15, 2022' target="_blank" rel="noopener">
       <img src="/gurukulams-book/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>December 13, 2022</span>
+      <span>December 15, 2022</span>
     </a>
   </div>
 

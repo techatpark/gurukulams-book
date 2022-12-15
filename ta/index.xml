@@ -55,7 +55,9 @@ Example # {{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&
       
       <guid>https://techatpark.github.io/gurukulams-book/ta/pictures/mermaid/</guid>
       <description>Mermaid Chart # MermaidJS is library for generating svg charts and diagrams from text.
-**Override Mermaid Initialization Config** To override the [initialization config](https://mermaid-js.github.io/mermaid/#/Setup) for Mermaid, create a `mermaid.json` file in your `assets` folder! Example # {{&amp;lt;/* mermaid [class=&amp;#34;text-center&amp;#34;]*/&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+Override Mermaid Initialization Config
+To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
+Example # {{&amp;lt;/* mermaid [class=&amp;#34;text-center&amp;#34;]*/&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
     </item>
     
   </channel>
