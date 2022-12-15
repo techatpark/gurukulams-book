@@ -12,20 +12,20 @@ stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 
 ## Example
 
-```hint-info
+```hint {role="info"}
 **Markdown content**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 ```
 
 
-```hint-warn
+```hint {role="warning"}
 **Markdown content**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
 ```
 
-```hint-danger
+```hint {role="danger"}
 **Markdown content**  
 Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat
 stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa
