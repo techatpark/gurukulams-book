@@ -3,7 +3,7 @@
 Diagram shortcode can be used as a way of displaying the images with caption.
 
 ```tpl
-{{</* diagram "[path]" "css-class" */>}}
+{{</* diagram "css-class" "caption" */>}}
 **Markdown content**  
 Caption
 {{</* /diagram */>}}
@@ -11,12 +11,40 @@ Caption
 
 ## Example
 
-{{< diagram "diagram1.jpeg" "w-50 float-end" >}}
-**Diagram with 50%**  
+{{< diagram "w-50 float-start" "Caption" >}}
+```goat
+┌─────┐       ┌───┐
+│Alice│       │Bob│
+└──┬──┘       └─┬─┘
+   │            │  
+   │ Hello Bob! │  
+   │───────────>│  
+   │            │  
+   │Hello Alice!│  
+   │<───────────│  
+┌──┴──┐       ┌─┴─┐
+│Alice│       │Bob│
+└─────┘       └───┘
+
+
+```  
 {{< /diagram >}}
 
 ```tpl
-{{</* diagram "diagram.jpeg" "w-50 float-end" */>}}
-**Diagram with 50%**
+{{</* diagram "w-50 float-end" "Caption" */>}}
+```goat
+┌─────┐       ┌───┐
+│Alice│       │Bob│
+└──┬──┘       └─┬─┘
+   │            │  
+   │ Hello Bob! │  
+   │───────────>│  
+   │            │  
+   │Hello Alice!│  
+   │<───────────│  
+┌──┴──┐       ┌─┴─┐
+│Alice│       │Bob│
+└─────┘       └───┘
+-```
 {{</* /diagram */>}}
 ```
