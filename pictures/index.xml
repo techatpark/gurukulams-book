@@ -11,8 +11,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techatpark.github.io/gurukulams-book/pictures/diagram/</guid>
-      <description> Diagram # Diagram shortcode can be used as a way of displaying the images with caption.
-{{&amp;lt; diagram &amp;#34;[path]&amp;#34; &amp;#34;css-class&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /diagram &amp;gt;}} Example # Diagram with 50% w-50 float-end {{&amp;lt; diagram &amp;#34;diagram.jpeg&amp;#34; &amp;#34;w-50 float-end&amp;#34; &amp;gt;}} **Diagram with 50%** {{&amp;lt; /diagram &amp;gt;}} </description>
+      <description>Diagram # Diagram shortcode can be used as a way of displaying the images with caption.
+{{&amp;lt; diagram &amp;#34;css-class&amp;#34; &amp;#34;caption&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /diagram &amp;gt;}} Example # ┌ │ └ ┌ │ └ ─ A ─ ─ A ─ ─ l ─ ─ l ─ ─ i ┬ │ │ │ │ │ │ ┴ i ─ ─ c ─ ─ H &amp;lt; ─ c ─ ─ e ─ H ─ e ─ ─ e ─ ┐ │ ┘ e ─ l ─ ┐ │ ┘ l ─ l ─ l ─ o ─ o ─ ─ ─ A ─ B ─ l ─ o ─ i ─ b ─ c ─ ┌ │ └ !</description>
     </item>
     
     <item>
