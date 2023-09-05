@@ -1,6 +1,6 @@
 {
-  "name": "Book Manual",
-  "short_name": "Book Manual",
+  "name": "Sample Book",
+  "short_name": "Sample Book",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

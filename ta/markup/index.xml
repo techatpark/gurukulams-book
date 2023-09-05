@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book Manual</title>
+    <title>Sample Book</title>
     <link>https://techatpark.github.io/gurukulams-book/ta/markup/</link>
-    <description>Recent content on Book Manual</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://techatpark.github.io/gurukulams-book/ta/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Sample Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ta</language><atom:link href="https://techatpark.github.io/gurukulams-book/ta/markup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://techatpark.github.io/gurukulams-book/ta/markup/hints/</link>
