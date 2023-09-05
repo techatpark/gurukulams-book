@@ -1,3 +1,8 @@
+---
+title: 'Figure'
+weight: 1
+---
+
 # Figure
 
 Figure shortcode can be used as a way of displaying the images with caption.

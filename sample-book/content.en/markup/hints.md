@@ -1,3 +1,8 @@
+---
+title: 'Hints'
+weight: 1
+---
+
 # Hints
 
 Hint shortcode can be used as hint/alerts/notification block.  

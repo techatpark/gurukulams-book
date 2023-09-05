@@ -1,3 +1,8 @@
+---
+title: 'Diagram'
+weight: 2
+---
+
 # Diagram
 
 Diagram shortcode can be used as a way of displaying the images with caption.
