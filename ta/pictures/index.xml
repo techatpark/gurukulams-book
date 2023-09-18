@@ -13,7 +13,7 @@
       
       <guid>https://techatpark.github.io/gurukulams-book/ta/pictures/diagram/</guid>
       <description> Diagram # Diagram shortcode can be used as a way of displaying the images with caption.
-{{&amp;lt; diagram &amp;#34;[path]&amp;#34; &amp;#34;css-class&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /diagram &amp;gt;}} Example # Diagram with 50% w-50 float-end {{&amp;lt; diagram &amp;#34;diagram.jpeg&amp;#34; &amp;#34;w-50 float-end&amp;#34; &amp;gt;}} **Diagram with 50%** {{&amp;lt; /diagram &amp;gt;}} </description>
+{{&amp;lt; diagram &amp;#34;[path]&amp;#34; &amp;#34;css-class&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /diagram &amp;gt;}} Example # Diagram with 50% diagram1.jpeg {{&amp;lt; diagram &amp;#34;diagram.jpeg&amp;#34; &amp;#34;w-50 float-end&amp;#34; &amp;gt;}} **Diagram with 50%** {{&amp;lt; /diagram &amp;gt;}} </description>
     </item>
     
     <item>
