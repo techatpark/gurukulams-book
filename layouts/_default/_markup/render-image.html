@@ -2,7 +2,7 @@
 
 
 {{ if fileExists $image }}
-<figure class="figure {{ with .Title }}{{ . }}{{ end }}">
+<figure class="figure img-fluid {{ with .Title }}{{ . }}{{ end }}">
   
   {{ if eq .Page.Language.Lang "en" }}
   <img src="{{ $image | absURL }}" alt="{{ .Text }}" class="w-100"/>
