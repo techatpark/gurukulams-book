@@ -4,15 +4,15 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
-Example # {{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&lt;/* /katex */&gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Text continues here.">
+Example # --- title: &#39;Katex&#39; weight: 7 extensions: - katex # Add This Extension On Top --- {{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&lt;/* /katex */&gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line.">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="KaTeX" />
 <meta property="og:description" content="KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
-Example # {{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&lt;/* /katex */&gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Text continues here." />
+Example # --- title: &#39;Katex&#39; weight: 7 extensions: - katex # Add This Extension On Top --- {{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&lt;/* /katex */&gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://techatpark.github.io/gurukulams-book/maths/katex/" /><meta property="article:section" content="maths" />
 
-<meta property="article:modified_time" content="2023-09-18T13:42:58+05:30" />
+<meta property="article:modified_time" content="2023-10-22T18:26:47+05:30" />
 <title>1. KaTeX | Sample Book</title>
 <link rel="manifest" href="/gurukulams-book/manifest.json">
 <link rel="icon" href="/gurukulams-book/favicon.png" type="image/x-icon">
@@ -23,7 +23,7 @@ Example # {{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}} f(x) =
 
 <link rel="stylesheet" href="/gurukulams-book/book.min.54cbfb4553d91681458560c020cfe6edcda3ac79fabcd3392175f79a35c80dce.css" integrity="sha256-VMv7RVPZFoFFhWDAIM/m7c2jrHn6vNM5IXX3mjXIDc4=" crossorigin="anonymous">
   <script defer src="/gurukulams-book/flexsearch.min.js"></script>
-  <script defer src="/gurukulams-book/en.search.min.fa48e539a2e5759322a9c07ed9dc08820eab05d30b91bff4525def4afb1691f5.js" integrity="sha256-&#43;kjlOaLldZMiqcB&#43;2dwIgg6rBdMLkb/0Ul3vSvsWkfU=" crossorigin="anonymous"></script>
+  <script defer src="/gurukulams-book/en.search.min.a20614213971460fe8c8db3d4926f9b5db616c7af53b8b58f8c55fb859c887b9.js" integrity="sha256-ogYUITlxRg/oyNs9SSb5tdthbHr1O4tY&#43;MVfuFnIh7k=" crossorigin="anonymous"></script>
 
   <script defer src="/gurukulams-book/sw.min.f4c2066d141ad00e18669c3437a537a36864d2389aac634bfcaf0e4b71431e3c.js" integrity="sha256-9MIGbRQa0A4YZpw0N6U3o2hk0jiarGNL/K8OS3FDHjw=" crossorigin="anonymous"></script>
 <!--
@@ -302,7 +302,13 @@ https://github.com/techatpark/gurukulams-book
   Example
   <a class="anchor" href="#example">#</a>
 </h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span>{{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}}
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span>---
+</span></span><span style="display:flex;"><span>title: &#39;Katex&#39;
+</span></span><span style="display:flex;"><span>weight: 7
+</span></span><span style="display:flex;"><span>extensions:
+</span></span><span style="display:flex;"><span>    - katex # Add This Extension On Top
+</span></span><span style="display:flex;"><span>---
+</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-latex" data-lang="latex"><span style="display:flex;"><span>{{&lt;/* katex [display] [class=&#34;text-center&#34;] */&gt;}}
 </span></span><span style="display:flex;"><span>f(x) = <span style="color:#66d9ef">\int</span>_{-<span style="color:#66d9ef">\infty</span>}^<span style="color:#66d9ef">\infty\hat</span> f(<span style="color:#66d9ef">\xi</span>)<span style="color:#66d9ef">\,</span>e^{2 <span style="color:#66d9ef">\pi</span> i <span style="color:#66d9ef">\xi</span> x}<span style="color:#66d9ef">\,</span>d<span style="color:#66d9ef">\xi</span>
 </span></span><span style="display:flex;"><span>{{&lt;/* /katex */&gt;}}
 </span></span></code></pre></div>
@@ -334,9 +340,9 @@ Text continues here.</p>
   <div class="flex flex-wrap justify-between">
 
 
-  <div><a class="flex align-center" href="https://github.com/techatpark/gurukulams-book/commit/d95f7d90edb29ef424669d49b0013b2f58665f10" title='Last modified by haripriya | September 18, 2023' target="_blank" rel="noopener">
+  <div><a class="flex align-center" href="https://github.com/techatpark/gurukulams-book/commit/3418aeab4f2e376998160a769e57c8f221ba1f8a" title='Last modified by Vijay Raja | October 22, 2023' target="_blank" rel="noopener">
       <img src="/gurukulams-book/svg/calendar.svg" class="book-icon" alt="Calendar" />
-      <span>September 18, 2023</span>
+      <span>October 22, 2023</span>
     </a>
   </div>
 
