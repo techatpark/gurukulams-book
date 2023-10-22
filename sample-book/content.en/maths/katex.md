@@ -9,6 +9,14 @@ KaTeX shortcode let you render math typesetting in markdown document. See [KaTeX
 
 ## Example
 
+```latex
+---
+title: 'Katex'
+weight: 7
+extensions:
+    - katex # Add This Extension On Top
+---
+```
 
 ```latex
 {{</*/* katex [display] [class="text-center"] */*/>}}
