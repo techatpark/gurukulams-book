@@ -1,0 +1,24 @@
+{{- if not (.Page.Scratch.Get "jsxgraph") -}}
+<!-- Include jsxgrapht only first time -->
+<script type="text/javascript" charset="UTF-8"
+ src="https://cdn.jsdelivr.net/npm/jsxgraph/distrib/jsxgraphcore.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/jsxgraph/distrib/jsxgraph.css" />
+
+{{- .Page.Scratch.Set "jsxgraph" true -}}
+{{- end -}}
+
+<div style="width:500px; height:500px" {{- with .Get "id" }} id="{{ . }}"{{ end }} {{- with .Get "class" }} class="jxgbox {{ . }}"{{ end }}>
+
+</div>
+
+<script>
+
+const board = JXG.JSXGraph.initBoard(
+    '{{- with .Get "id" }}{{ . }}{{ end }}', { 
+    boundingbox: [-5, 5, 5, -5], 
+    axis:true
+});
+
+{{ printf "%s" .Inner | safeJS }}
+
+</script>
