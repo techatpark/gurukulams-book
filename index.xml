@@ -5,60 +5,49 @@
     <link>https://techatpark.github.io/gurukulams-book/</link>
     <description>Recent content on Sample Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techatpark.github.io/gurukulams-book/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://techatpark.github.io/gurukulams-book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Figure</title>
       <link>https://techatpark.github.io/gurukulams-book/pictures/figure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/pictures/figure/</guid>
-      <description> Figure # Figure shortcode can be used as a way of displaying the images with caption.
-![Caption](Path &amp;#34;css-classes&amp;#34;) Example # Figure with 50% ![Figure with 50%](figure.jpeg &amp;#34;w-50 float-end&amp;#34;) </description>
+      <description> Figure # Figure shortcode can be used as a way of displaying the images with caption.&#xA;![Caption](Path &amp;#34;css-classes&amp;#34;) Example # Figure with 50% ![Figure with 50%](figure.jpeg &amp;#34;w-50 float-end&amp;#34;) </description>
     </item>
-    
     <item>
       <title>Hints</title>
       <link>https://techatpark.github.io/gurukulams-book/markup/hints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/markup/hints/</guid>
-      <description>Hints # Hint shortcode can be used as hint/alerts/notification block.
-There are 3 colors to choose: info, warning and danger.
-hint {{ role=&amp;#34;[info|warning|danger]&amp;#34; }} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content</description>
+      <description>Hints # Hint shortcode can be used as hint/alerts/notification block.&#xA;There are 3 colors to choose: info, warning and danger.&#xA;hint {{ role=&amp;#34;[info|warning|danger]&amp;#34; }} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content</description>
     </item>
-    
     <item>
       <title>KaTeX</title>
       <link>https://techatpark.github.io/gurukulams-book/maths/katex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/maths/katex/</guid>
-      <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
-Example # --- title: &amp;#39;Katex&amp;#39; weight: 7 extensions: - katex # Add This Extension On Top --- {{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line.</description>
+      <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX&#xA;Example # --- title: &amp;#39;Katex&amp;#39; weight: 7 extensions: - katex # Add This Extension On Top --- {{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line.</description>
     </item>
-    
     <item>
       <title>Diagram</title>
       <link>https://techatpark.github.io/gurukulams-book/pictures/diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/pictures/diagram/</guid>
-      <description>Diagram # Diagram shortcode can be used as a way of displaying the images with caption.
-{{&amp;lt; diagram &amp;#34;css-class&amp;#34; &amp;#34;caption&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /diagram &amp;gt;}} Example # ┌ │ └ ┌ │ └ ─ A ─ ─ A ─ ─ l ─ ─ l ─ ─ i ┬ │ │ │ │ │ │ ┴ i ─ ─ c ─ ─ H &amp;lt; ─ c ─ ─ e ─ H ─ e ─ ─ e ─ ┐ │ ┘ e ─ l ─ ┐ │ ┘ l ─ l ─ l ─ o ─ o ─ ─ ─ A ─ B ─ l ─ o ─ i ─ b ─ c ─ ┌ │ └ !</description>
+      <description>Diagram # Diagram shortcode can be used as a way of displaying the images with caption.&#xA;{{&amp;lt; diagram &amp;#34;css-class&amp;#34; &amp;#34;caption&amp;#34; &amp;gt;}} **Markdown content** Caption {{&amp;lt; /diagram &amp;gt;}} Example # ┌ │ └ ┌ │ └ ─ A ─ ─ A ─ ─ l ─ ─ l ─ ─ i ┬ │ │ │ │ │ │ ┴ i ─ ─ c ─ ─ H &amp;lt; ─ c ─ ─ e ─ H ─ e ─ ─ e ─ ┐ │ ┘ e ─ l ─ ┐ │ ┘ l ─ l ─ l ─ o ─ o ─ ─ ─ A ─ B ─ l ─ o ─ i ─ b ─ c ─ ┌ │ └ !</description>
     </item>
-    
+    <item>
+      <title>JSXGraph</title>
+      <link>https://techatpark.github.io/gurukulams-book/maths/jsxgraph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://techatpark.github.io/gurukulams-book/maths/jsxgraph/</guid>
+      <description> JSXGraph # JSXGraph shortcode let you render math typesetting in markdown document. See JSXGraph&#xA;Example # {{&amp;lt;/* jsxgraph [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /jsxgraph */&amp;gt;}} </description>
+    </item>
     <item>
       <title>Mermaid Chart</title>
       <link>https://techatpark.github.io/gurukulams-book/pictures/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/pictures/mermaid/</guid>
-      <description>Mermaid Chart # MermaidJS is library for generating svg charts and diagrams from text.
-Override Mermaid Initialization Config
-To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
-Example # {{&amp;lt;/* mermaid [class=&amp;#34;text-center&amp;#34;]*/&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+      <description>Mermaid Chart # MermaidJS is library for generating svg charts and diagrams from text.&#xA;Override Mermaid Initialization Config&#xA;To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!&#xA;Example # {{&amp;lt;/* mermaid [class=&amp;#34;text-center&amp;#34;]*/&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
     </item>
-    
   </channel>
 </rss>

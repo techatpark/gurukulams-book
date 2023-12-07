@@ -5,19 +5,14 @@
     <link>https://techatpark.github.io/gurukulams-book/ta/markup/</link>
     <description>Recent content on Sample Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ta</language><atom:link href="https://techatpark.github.io/gurukulams-book/ta/markup/index.xml" rel="self" type="application/rss+xml" />
+    <language>ta</language>
+    <atom:link href="https://techatpark.github.io/gurukulams-book/ta/markup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://techatpark.github.io/gurukulams-book/ta/markup/hints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/ta/markup/hints/</guid>
-      <description>Hints # Hint shortcode can be used as hint/alerts/notification block.
-There are 3 colors to choose: info, warning and danger.
-hint-[info|warning|danger] **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content
-Lorem markdownum insigne.</description>
+      <description>Hints # Hint shortcode can be used as hint/alerts/notification block.&#xA;There are 3 colors to choose: info, warning and danger.&#xA;hint-[info|warning|danger] **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Example # Markdown content&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content&#xA;Lorem markdownum insigne.</description>
     </item>
-    
   </channel>
 </rss>

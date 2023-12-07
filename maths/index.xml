@@ -5,16 +5,21 @@
     <link>https://techatpark.github.io/gurukulams-book/maths/</link>
     <description>Recent content in Maths on Sample Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techatpark.github.io/gurukulams-book/maths/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="https://techatpark.github.io/gurukulams-book/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KaTeX</title>
       <link>https://techatpark.github.io/gurukulams-book/maths/katex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://techatpark.github.io/gurukulams-book/maths/katex/</guid>
-      <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
-Example # --- title: &amp;#39;Katex&amp;#39; weight: 7 extensions: - katex # Add This Extension On Top --- {{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line.</description>
+      <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX&#xA;Example # --- title: &amp;#39;Katex&amp;#39; weight: 7 extensions: - katex # Add This Extension On Top --- {{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line.</description>
     </item>
-    
+    <item>
+      <title>JSXGraph</title>
+      <link>https://techatpark.github.io/gurukulams-book/maths/jsxgraph/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://techatpark.github.io/gurukulams-book/maths/jsxgraph/</guid>
+      <description> JSXGraph # JSXGraph shortcode let you render math typesetting in markdown document. See JSXGraph&#xA;Example # {{&amp;lt;/* jsxgraph [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /jsxgraph */&amp;gt;}} </description>
+    </item>
   </channel>
 </rss>
